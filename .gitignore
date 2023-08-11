@@ -1,0 +1,17 @@
+.eunit
+.rebar
+.tool-versions
+.jiffy.dev
+.jiffy-compile-check
+*.app
+*.beam
+*.d
+*.o
+*.so
+_build
+compile_commands.json
+deps
+erln8.config
+hexer.config
+rebar.lock
+TEST-*.xml
